@@ -72,7 +72,7 @@ namespace BatallaNaval
                     }
                     else if (tablero[i, j] == "x")
                     {
-                        // No hacer nada si ya hay una "x"
+                    
                     }
                     else if (posicion == 0 && longitud == 3)
                     {
@@ -175,12 +175,12 @@ namespace BatallaNaval
             if (tablero[coordenadaXA, coordenadaYA] == "0")
             {
                 Console.WriteLine("¡Acierto! Ha atacado un barco.\n");
-                // tablero[coordenadaXA, coordenadaYA] = "x";
+                
             }
             else
             {
                 Console.WriteLine("¡Desacierto! No ha atacado un barco.\n");
-                // tablero[coordenadaXA, coordenadaYA] = "X";
+                
             }
 
             TableroActualizacion();
