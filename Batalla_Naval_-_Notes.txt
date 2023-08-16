@@ -1,0 +1,16 @@
+Batalla Naval:
+- Proyecto realizado como ejercicio de clase de Técnicas de programación
+- El ejercicio no viene separado entre clases 
+- El ejercicio no posee interfaz gráfica
+- Está diseñado para la experiencia de una sola pantalla
+- Sujeto a mejoras
+
+
+Naval battle:
+- Project carried out as a class exercise in Programming Techniques
+- The program is not separated between classes
+- The exercise does not have a graphical interface
+- It is designed for single screen experience
+- Subject to improvements
+
+
